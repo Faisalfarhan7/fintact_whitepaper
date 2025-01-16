@@ -1,0 +1,38 @@
+input: ./
+output: .retype
+url: fintact.app
+
+branding:
+  title: Fintact
+  label: Docs
+
+meta:
+  title: " - Transform Your Content into Tokenized RWA"
+
+links:
+  - text: Website
+    link: https://www.fintact.app/
+    target: blank
+
+  - text: Twitter # Icon from https://iconmonstr.com
+    link: https://www.fintact.app/
+    target: blank
+
+  - text: Linkedin # Icon from https://iconmonstr.com
+    link: https://www.fintact.app/
+    target: blank
+
+  - text: Telegram # Icon from https://iconmonstr.com
+    link: https://www.fintact.app/
+    target: blank
+
+  - text: Medium # Icon from https://iconmonstr.com
+    link: https://www.fintact.app/
+    target: blank
+
+footer:
+  copyright: © Copyright {{ year }} – [Fintact](https://www.fintact.app/) – All rights reserved
+
+integrations:
+  plausible:
+    domain: fintact.app
